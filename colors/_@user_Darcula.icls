@@ -1,10 +1,9 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-08T11:00:25</property>
+    <property name="created">2017-03-04T11:49:51</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-08T11:58:04</property>
+    <property name="ideVersion">2016.3.3.0.0</property>
+    <property name="modified">2017-03-04T16:06:39</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />

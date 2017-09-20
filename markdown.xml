@@ -1,5 +1,10 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Program%20Files/JetBrains/IntelliJ%20IDEA%202017.1.2/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Program%20Files%20(x86)/JetBrains/IntelliJ%20IDEA%202016.3.3/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownPreviewSettings>
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </MarkdownPreviewSettings>
   </component>
 </application>
