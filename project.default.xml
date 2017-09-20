@@ -5,10 +5,10 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="vcs.Git" />
-        <property name="last_opened_file_path" value="D:/cmder/vendor/git-for-windows/bin/git.exe" />
+      <component name="PreferredVcsStorage">
+        <preferredVcsName>ApexVCS</preferredVcsName>
       </component>
+      <component name="ProjectRootManager" version="2" default="true" />
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
@@ -55,8 +55,21 @@
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
       </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
