@@ -1,8 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-  </component>
-</application>
