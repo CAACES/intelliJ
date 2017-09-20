@@ -1,0 +1,12 @@
+<application>
+  <component name="BackgroundChibiCharaApplicationBackgroundChibiCharaSettings">
+    <option name="filepathList">
+      <list>
+        <option value="C:\Users\Frank\Downloads\java.jpg" />
+        <option value="C:\Users\Frank\Downloads\screenshot_-6-26_15-48.png" />
+      </list>
+    </option>
+    <option name="align" value="CENTER" />
+    <option name="alpha" value="0.16" />
+  </component>
+</application>
