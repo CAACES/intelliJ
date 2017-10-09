@@ -18,6 +18,10 @@
           <option name="url" value="https://clong365@bitbucket.org/caaces_server/airport_full_server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://clong365@bitbucket.org/caaces_web/airport_full_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\" />
